@@ -4,3 +4,6 @@ process
 Create an avatar for anan user
 
 Login And Logout
+
+Change 1
+Change 2
